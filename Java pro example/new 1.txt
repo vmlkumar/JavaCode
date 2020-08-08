@@ -1,0 +1,16 @@
+// recursion
+
+1. return value
+2. end condition // endless loop infinite loop
+
+void main()
+{
+
+	fact(n);
+}
+
+void fact(int x)
+{
+
+	fact(x);
+}
